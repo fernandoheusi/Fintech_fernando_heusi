@@ -84,6 +84,11 @@ body {
 	margin-bottom: 20px;
 }
 
+.list-item:hover{
+	opacity: 0.5;
+	cursor: pointer;
+}
+
 .icon-plus-description{
 	display: flex;
 	flex-direction: row;
